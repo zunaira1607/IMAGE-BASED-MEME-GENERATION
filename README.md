@@ -43,5 +43,5 @@ According to the research, LSTM with character-level tokenization performed best
 
 ## Running the Application
 
-To run the application:
+To run the application:Click on run.
 
